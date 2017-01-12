@@ -8,9 +8,9 @@ TBD
 
 ## Schedule
 
-Lecture is from 9 AM to 12:30 PM Monday-Thursday, with breaks during that time. Depending on the topic, we may end early.
+Lecture is from 9 AM to 12:00 PM Monday-Thursday, with breaks during that time. Depending on the topic, we may end early or late.
 
-Lab is from 1:30 PM to 5 PM Monday-Thursday and 9 AM to 5 PM on Friday.
+Lab is from 1:00 PM to 5 PM Monday-Thursday and 9 AM to 5 PM on Friday.
 
 <!---
 ### Office hours and one-on-one instruction
@@ -42,53 +42,49 @@ By the end of this week, students should be comfortable with:
 * Higher-order functions
 * Recursion
 * Exceptions
-* Object-oriented programming
 
 ### Week 3
 
-* Stochastic programming
-* Randomness
-* Monte Carlo simulations
-* Plotting
-* NumPy
-* Simple statistics
-* Basic statistical inquiry
+* Object-oriented programming
+* Test Driven Development
+* CLI Applications
+* Intro to Databases
 
 ### Week 4
 
-* Regular expressions
-* Loading and manipulating data with pandas
-* Common data formats
-* Publicly available data sets
-* Data set quality
-* Cleaning data sets
+* SQL
+* HTML
+* CSS
+* JavaScript
+* Flask
 
 ### Week 5
 
-* Machine learning
-* Bayesian statistics and classification
-* Clustering
-
-### Week 6
-
-* HTML
-* CSS
+* Regular Expressions
 * Introduction to Django
-* Relational databases
 * Modeling
 * Forms
 
-### Week 7
+### Week 6
 
 * Advanced database design
 * Deployment
+* More Javascript: JQuery
+
+### Week 7
+
+* Caching
 * Building REST APIs
+* Consuming REST APIs
+* JSON
+* More Javascript: AJAX et al.
 
 ### Week 8
 
-* JavaScript
-* Consuming REST APIs
+* Web Applications, all the way
 * Data visualization on the Web
+* Scaling tools
+* Selenium
 
 ### Week 9
 
