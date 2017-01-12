@@ -6,7 +6,7 @@ There are quite a few tasks and learning topics that are necessary to take care 
 
 We don’t believe you can really learn to program by watching a few videos and answering some questions (and if you believed that, you probably wouldn’t be coming to The Iron Yard). However, skill acquisition takes a long time, and this work will help introduce you to some of the ideas and skills that will form the foundation of your in-person learning experience.
 
-This work should be completed by October 17, one work before class begins. I will assume that you have completed this work before class, so you will likely feel very far behind if you haven’t finished when we start class on October 24. If you have ANY questions at all, please reach out to me at <sam.boyarsky@theironyard.com>.
+This work should be completed by February 13, one week before class begins. I will assume that you have completed this work before class, so you will likely feel very far behind if you haven’t finished when we start class on February 20. If you have ANY questions at all, please reach out to me at <sam.boyarsky@theironyard.com>.
 
 In order to complete some of these tasks, you will need to [register for an account with Treehouse](http://referrals.trhou.se/clintondreisbach). Treehouse is free for 7 days (which should be enough to finish the required courses), and is $25/month after the trial. You will not be required to use Treehouse after completing the prework, but you are welcome to continue your subscription if you find it valuable.
 
@@ -61,7 +61,7 @@ Programming requires lots of typing.  If you are not comfortable touch-typing, p
 
 After reading the articles, please fill out the following survey:
 
-* [Prework Survey 1](http://goo.gl/3vfwBr)
+* [Prework Survey 1](https://goo.gl/forms/5Z1RA3ECaOm8qtXc2)
 
 ### Taking care of yourself
 You are about to embark on an intense journey.  Proper nutrition and sleep are important components for success.  It is time to mentally prepare yourself for this experience.  You may want to read up on how nutrition and sleep affect learning.
@@ -109,7 +109,7 @@ Almost done. Although we're not going to talk about them in the first few weeks 
 
 Once you have finished the prework given above, complete the following survey:
 
-* [Prework Survey 2](http://goo.gl/dKVDmU)
+* [Prework Survey 2](https://goo.gl/forms/93BRAmoIhBhhSF573)
 
 Whew, you did it. Now, your only remaining assignment is to get some sleep before class starts. You're going to need it!
 
