@@ -50,7 +50,7 @@ Sign up for an account at [Treehouse](http://teamtreehouse.com). Signing up does
 
 ### Typing
 Programming requires lots of typing.  If you are not comfortable touch-typing, please practice.  I would recommend you work to get to at least 40-50 WPM before beginning the class.  
-Create an account at [typing.com](http://www.typing.com/student/join#5878D64928C7C) and join our class.  I'll be able to see your progress!
+Create an account at [typing.com using this link](http://www.typing.com/student/join#5878D64928C7C) and join our class.  I'll be able to see your progress!
 Take a couple of the tests, or go through the lessons to build your skills and speed.
 
 
