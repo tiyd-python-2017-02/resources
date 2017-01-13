@@ -47,6 +47,13 @@ $ git config --global core.excludesfile ~/.gitignore
 
 Sign up for an account at [Treehouse](http://teamtreehouse.com). Signing up does require a credit card, but you will have a free trial for the first 7 days. If you do not have any access to a credit card, that is ok! Let me know via email and I can help you make that happen.
 
+
+### Typing
+Programming requires lots of typing.  If you are not comfortable touch-typing, please practice.  I would recommend you work to get to at least 40-50 WPM before beginning the class.  
+Create an account at [typing.com](http://www.typing.com/student/join#5878D64928C7C) and join our class.  I'll be able to see your progress!
+Take a couple of the tests, or go through the lessons to build your skills and speed.
+
+
 ## Topic 1: Your Brain and Body
 
 Read the following articles:
@@ -56,8 +63,6 @@ Read the following articles:
 
 Watch this video:
 https://www.youtube.com/watch?v=hY14Er6JX2s
-
-Programming requires lots of typing.  If you are not comfortable touch-typing, please practice.  There are lots of free places to practice, here is [one](http://www.typingtest.com).
 
 After reading the articles, please fill out the following survey:
 
