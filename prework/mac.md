@@ -18,8 +18,8 @@ Again, we want to have all of these kinks worked out in advance, so PLEASE e-mai
 
 * Makes sure you are running **OS X Yosemite** (10.10), **El Capitan** (10.11), or **Sierra** (10.12).
     1. You'll need to sign in to the Mac App Store with you Apple ID. If you don't have one, [sign up here](https://appleid.apple.com/).
-    1. Download the El Capitan upgrade from the Apple Store: [download here](https://itunes.apple.com/us/app/os-x-el-capitan/id1018109117?mt=12).
-    1. Double-click "Install OS X El Capitan” to begin installation.
+    1. Download the Sierra upgrade from the Apple Store: [download here](https://itunes.apple.com/us/app/macos-sierra/id1127487414?mt=12&ls=1)
+    1. Double-click "Install OS X Sierra” to begin installation.
 
   **WARNING:** The OS X upgrade can take a bit of time to complete and will require a restart. Plan on doing this in the evening or over a lunch break.
 
