@@ -4,7 +4,7 @@
 
 All students must bring their own MacBook laptop. Your MacBook should have a minimum of 4 GB of RAM and 128 GB of hard drive space. Those are minimum specs, and I recommend getting 8 GB of RAM and a 256 GB hard drive, but that’s your choice to make. Any MacBook model (including Air and Pro) made in 2012 or after will work well. If you already own a Mac and it's older than that, send me an email and we can talk.
 
-Your MacBook must be running OS X Yosemite. This is a free upgrade from the App Store.
+Your MacBook must be running at least OS X Yosemite (El Capitan or Sierra will work). This is a free upgrade from the App Store.
 
 There is no commercial software required for the class.
 
