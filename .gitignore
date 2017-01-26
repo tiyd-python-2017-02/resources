@@ -1,0 +1,14 @@
+solutions
+grading
+.direnv
+.envrc
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+w1d2-functions.ipynb
+students.txt
+new_file.txt
+another_file.txt
+sql
+secrets.py
+db.sqlite3
