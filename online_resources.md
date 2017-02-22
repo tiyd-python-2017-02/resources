@@ -1,19 +1,22 @@
+###Potentially Useful Resources
 
-Question/Answer repositories
-[Google](https://www.google.com/)
-http://stackoverflow.com/
-http://stackexchange.com/
-
-Documentation
-https://docs.python.org/3/
-https://learnxinyminutes.com/docs/python3/
-
-Web based step-through visualizer
-http://pythontutor.com/
+#Question/Answer repositories
+- [Google](https://www.google.com/)
+- [StackOverflow](http://stackoverflow.com/)
+- [StackExchange](http://stackexchange.com/)
 
 
-Coding Practice:
-http://codingbat.com/python
-https://www.codewars.com/
-https://www.codingame.com/
-https://www.hackerrank.com/
+#Documentation
+- [Python3 Documentation](https://docs.python.org/3/)
+- [Learn X in Y Minutes](https://learnxinyminutes.com/docs/python3/)
+
+
+#Web based step-through visualizer
+- [Python Tutor](http://pythontutor.com/)
+
+
+#Coding Practice/Katas:
+- [CodingBat](http://codingbat.com/python)
+- [CodeWars](https://www.codewars.com/)
+- [CodingGame](https://www.codingame.com/)
+- [HackerRank](https://www.hackerrank.com/)
