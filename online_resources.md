@@ -1,6 +1,6 @@
 
 Question/Answer repositories
-(Google)[https://www.google.com/]
+[Google](https://www.google.com/)
 http://stackoverflow.com/
 http://stackexchange.com/
 
