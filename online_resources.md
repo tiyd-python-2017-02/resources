@@ -27,7 +27,7 @@
 - [git cheatsheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 - [github 1](https://education.github.com/git-cheat-sheet-education.pdf)
 - [github 2](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-
+- [ndp software cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) I have no idea if this is a good site, but it looks cool and like it might be useful
 
 ###Unix/Linux/Mac terminal
 - [Treebeard's Unix cheatsheet](http://www.rain.org/~mkummel/unix.html)
