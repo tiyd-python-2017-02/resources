@@ -6,9 +6,10 @@
 - [StackExchange](http://stackexchange.com/)
 
 
-###Documentation
-- [Python3 Documentation](https://docs.python.org/3/)
-- [Learn X in Y Minutes](https://learnxinyminutes.com/docs/python3/)
+###Documentation and References
+- [Python3 Documentation](https://docs.python.org/3/) - Official documentation
+- [Learn X in Y Minutes](https://learnxinyminutes.com/docs/python3/) - A pure syntax reference
+- [Learn Python The Hard Way](https://learnpythonthehardway.org/book/) - A textbook for learning Python
 
 
 ###Web based step-through visualizer
