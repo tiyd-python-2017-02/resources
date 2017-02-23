@@ -8,6 +8,8 @@
 
 ###Documentation and References
 - [Python3 Documentation](https://docs.python.org/3/) - Official documentation
+-- [Python's built in functions](https://docs.python.org/3/library/functions.html)
+-- [Python's built in types](https://docs.python.org/3/library/stdtypes.html)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/docs/python3/) - A pure syntax reference
 - [Learn Python The Hard Way](https://learnpythonthehardway.org/book/) - A textbook for learning Python
 
