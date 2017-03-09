@@ -39,3 +39,12 @@
 - [another cheatsheet](https://vim.rtorr.com/)
 - [yet another cheatsheet](https://www.fprintf.net/vimCheatSheet.html)
 
+
+### SQL
+- [SQL Designer](https://ondras.zarovi.cz/sql/demo/) - tool for designing SQL Schema
+- [W3 Schools](https://www.w3schools.com/sql/) - a pretty good starting point...  take with a grain of salt.
+- [Tutorials Point](https://www.tutorialspoint.com/postgresql/) - no warranty, but this looks ok and easier to read than the official documentation
+- [PostgreSQL official documentation](https://www.postgresql.org/docs/9.6/static/index.html) - difinitive resource, but difficult to read
+
+
+
