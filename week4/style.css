@@ -1,0 +1,35 @@
+/* tag selectors are just the tag name */
+ol{
+    color:red;
+    background-color:black;
+}
+
+.something{
+    border:10px dashed green;
+    color:pink;
+}
+
+/* a css comment starts with a slash-star and ends with a star-slash  */
+/* class selectors start with a '.' */
+.class-selector{
+    color:purple;
+    font-weight: bold;
+    text-decoration: overline;
+}
+
+/* id selectors start with a '#' */
+#id-selector{
+    color:green;
+    text-decoration: line-through;
+}
+
+div div {
+    border: 100px solid red;
+    border-radius: 50%;
+    display: none;
+}
+
+table, tr, td {
+    border:1px solid black;
+    border-collapse: collapse;
+}
