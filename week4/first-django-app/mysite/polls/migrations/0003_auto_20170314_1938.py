@@ -6,12 +6,11 @@ from django.db import migrations
 import datetime
 import csv
 
-def add_shit(apps, schema_editor):
+def load_data(apps, schema_editor):
     Question = apps.get_model("polls", "Question")
     for i in range(10):
         q = Question(question_text="question number: {}".format(i), pub_date="2017-03-14", am_i_stupid=True)
         q.save()
-
 
 
 
@@ -22,5 +21,5 @@ class Migration(migrations.Migration):
     ]
 
     operations = [
-        migrations.RunPython(add_shit),
+        migrations.RunPython(load_data),
     ]
