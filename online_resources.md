@@ -47,4 +47,8 @@
 - [PostgreSQL official documentation](https://www.postgresql.org/docs/9.6/static/index.html) - difinitive resource, but difficult to read
 
 
+### Javascript
+- [DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp) - from W3Schools
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JQuery Documentation](https://api.jquery.com/)
 
