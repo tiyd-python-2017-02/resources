@@ -52,3 +52,16 @@
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JQuery Documentation](https://api.jquery.com/)
 
+### Django
+- Startup Tutorials: 
+    - [1 start project, app, first view, urls](https://docs.djangoproject.com/en/1.9/intro/tutorial01/) 
+    - [2 database settings, create models, activate models, shell API, Django Admin](https://docs.djangoproject.com/en/1.9/intro/tutorial02/) 
+    - [3 views, templates, urls](https://docs.djangoproject.com/en/1.9/intro/tutorial03/) 
+    - [4 forms, generic_views](https://docs.djangoproject.com/en/1.9/intro/tutorial04/)
+    - [5 testing](https://docs.djangoproject.com/en/1.9/intro/tutorial05/)
+    - [6 static](https://docs.djangoproject.com/en/1.9/intro/tutorial06/)
+    - [7 customizing Django Admin](https://docs.djangoproject.com/en/1.9/intro/tutorial07/)
+- [Queryset Cheatsheet](https://github.com/chrisdl/Django-QuerySet-Cheatsheet)
+- [An older, but still useful cheatsheet](https://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
+- [Another cheatsheet](http://www.cheat-sheets.org/saved-copy/django_reference_sheet.pdf)
+- [Yet another cheatsheet](http://steventking.com/clients/django_beginners_cheatsheet.pdf)

@@ -36,3 +36,18 @@ function isPalindrome(word){
     }
     return (word[0] === word[word.length-1]) && isPalindrome(word.substring(1, word.length-1));
 }
+
+function randInt(low, high){
+    return Math.floor((Math.random() * (high-low)) + low);
+}
+
+$("button").on("click", function(e){ alert("you got me") })
+$("button").on("mouseover", function(e){
+    w = window.innerWidth - e.target.clientWidth
+    h = window.innerHeight - e.target.clientHeight
+    newW = randInt(0, w)
+    newH = randInt(0, h)
+    e.target.style.position = "fixed"
+    e.target.style.left = `${newW}px`
+    e.target.style.top = `${newH}px`
+})

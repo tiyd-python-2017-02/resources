@@ -1,0 +1,3 @@
+write fizz buzz in javascript (console log or to the web page)
+write a python program to make an m x n HTML table
+
