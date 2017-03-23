@@ -1,23 +1,23 @@
-#Potentially Useful Resources
+# Potentially Useful Resources
 
 
-###Question/Answer repositories
+### Question/Answer repositories
 - [Google](https://www.google.com/)
 - [StackOverflow](http://stackoverflow.com/)
 - [StackExchange](http://stackexchange.com/)
 
 
-###Documentation and References
+### Documentation and References
 - [Python3 Documentation](https://docs.python.org/3/) - Official documentation -- [built in functions](https://docs.python.org/3/library/functions.html), [built in types](https://docs.python.org/3/library/stdtypes.html)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/docs/python3/) - A pure syntax reference
 - [Learn Python The Hard Way](https://learnpythonthehardway.org/book/) - A textbook for learning Python
 
 
-###Web based step-through visualizer
+### Web based step-through visualizer
 - [Python Tutor](http://pythontutor.com/)
 
 
-###Coding Practice/Katas:
+### Coding Practice/Katas:
 - [CodingBat](http://codingbat.com/python)
 - [CodeWars](https://www.codewars.com/)
 - [CodingGame](https://www.codingame.com/)
@@ -31,11 +31,11 @@
 - [ndp software cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) I have no idea if this is a good site, but it looks cool and like it might be useful
 
 
-###Unix/Linux/Mac terminal
+### Unix/Linux/Mac terminal
 - [Treebeard's Unix cheatsheet](http://www.rain.org/~mkummel/unix.html)
 
 
-###Vim cheatsheets
+### Vim cheatsheets
 - [Keyboard Layout cheatsheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 - [cheatsheet](http://vimsheet.com/)
 - [another cheatsheet](https://vim.rtorr.com/)
