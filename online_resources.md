@@ -1,5 +1,6 @@
 #Potentially Useful Resources
 
+
 ###Question/Answer repositories
 - [Google](https://www.google.com/)
 - [StackOverflow](http://stackoverflow.com/)
@@ -29,6 +30,7 @@
 - [github 2](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - [ndp software cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) I have no idea if this is a good site, but it looks cool and like it might be useful
 
+
 ###Unix/Linux/Mac terminal
 - [Treebeard's Unix cheatsheet](http://www.rain.org/~mkummel/unix.html)
 
@@ -51,6 +53,7 @@
 - [DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp) - from W3Schools
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JQuery Documentation](https://api.jquery.com/)
+
 
 ### Django
 - Startup Tutorials: 
