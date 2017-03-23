@@ -1,6 +1,5 @@
 # Potentially Useful Resources
 
-
 ### Question/Answer repositories
 - [Google](https://www.google.com/)
 - [StackOverflow](http://stackoverflow.com/)
