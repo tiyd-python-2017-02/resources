@@ -1,4 +1,4 @@
-# Potentially Useful Resources?
+# Potentially Useful Resources
 
 
 ### Question/Answer repositories
