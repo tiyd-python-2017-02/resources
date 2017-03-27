@@ -5,10 +5,20 @@ from django.views import generic
 # from django.template import loader
 
 
+def example(request, question_id):
+    import requests
+    print(requests.get("http://www.google.com").text)
+    print(dir(request))
+    print(request.GET)
+    print(request.POST)
+    return render(request, 'polls/index.html', {})
+
 
 def index(request):
     latest_question_list = Question.objects.order_by('pub_date')[:10]
-    context = {'latest_question_list': latest_question_list}
+    context = {'latest_question_list': latest_question_list,
+    }
+
     return render(request, 'polls/index.html', context)
 
 

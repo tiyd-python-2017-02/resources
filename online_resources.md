@@ -67,3 +67,14 @@
 - [An older, but still useful cheatsheet](https://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
 - [Another cheatsheet](http://www.cheat-sheets.org/saved-copy/django_reference_sheet.pdf)
 - [Yet another cheatsheet](http://steventking.com/clients/django_beginners_cheatsheet.pdf)
+
+
+### HTTP
+- [HTTP Request](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
+- [HTTP Status Codes](http://www.restapitutorial.com/httpstatuscodes.html)
+- [REST Tutorial](http://www.restapitutorial.com/)
+- [another REST Tutorial](http://restcookbook.com/HTTP%20Methods/patch/)
+- [Python Requests documentation](http://docs.python-requests.org/en/master/)
+- [An interesting authentication discussion](http://stackoverflow.com/questions/34784644/what-is-the-difference-between-oauth-based-and-token-based-authentication)
+
+

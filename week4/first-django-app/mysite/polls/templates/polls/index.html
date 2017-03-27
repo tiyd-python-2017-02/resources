@@ -7,7 +7,7 @@
         <link rel="stylesheet" type="text/css" href="{% static 'polls/css/style.css' %}" />
     </head>
     <body>
-
+        {% csrf_token %}
 {% if latest_question_list %}
     <ul>
     {% for question in latest_question_list %}
