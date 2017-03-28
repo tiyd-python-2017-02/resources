@@ -1,0 +1,58 @@
+table{
+    border: 1px solid black;
+}
+tr, td{
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    background-color: #CCCCCC;
+}
+
+.clicked {
+    background-color: white;
+    cursor: auto;
+    font-weight: bold;
+    text-align: center;
+}
+
+.mine {
+    /*background-color: black;*/
+}
+
+.one {
+    color: blue;
+}
+.two {
+    color: green;
+}
+.three {
+    color: red;
+}
+.four {
+    color: purple;
+}
+.five {
+    color: brown;
+}
+.six {
+    color: teal;
+}
+.seven {
+    color: black;
+}
+.eight {
+    color: grey;
+}
+
+.flag {
+    background-color: yellow    ;
+}
+
+.safe {
+    background-color: green;
+}
+
+.dead {
+    background-color: red;
+}
