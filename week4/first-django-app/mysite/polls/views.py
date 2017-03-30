@@ -13,6 +13,24 @@ def example(request, question_id):
     print(request.POST)
     return render(request, 'polls/index.html', {})
 
+def api(request, question_id):
+    q = Question.objects.get(id=question_id)
+    print(q)
+    data = "id: {}, question_text: '{}', pub_date: '{}', am_i_stupid: '{}'".format(q.id, q.question_text, q.pub_date, q.am_i_stupid)
+    return HttpResponse("{" + data + "}", content_type='application/json')
+
+
+def api_save(request):
+    q = Question(question_text=request.POST['question_text'],
+                 pub_date=request.POST['pub_date'],
+                 am_i_stupid=request.POST['am_i_stupid'])
+    q.save()
+    
+    data = "id: {}, question_text: '{}', pub_date: '{}', am_i_stupid: '{}'".format(q.id, q.question_text, q.pub_date, q.am_i_stupid)
+    return HttpResponse("{" + data + "}", content_type='application/json')
+
+
+
 
 def index(request):
     latest_question_list = Question.objects.order_by('pub_date')[:10]
