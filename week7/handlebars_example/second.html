@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+        <div id="content"></div>
+        <div id="newContent"></div>
+        <script id="post-template" type="text/x-handlebars-template">
+        <article class="post-container">
+          <header>{{title}}</header>
+          <aside>
+            {{#if image}}
+              <img src="./images/{{image}}" alt="{{author}}">
+            {{else}}
+              <img src="./images/default.png" alt="{{author}}">
+            {{/if}}
+          </aside>
+          <div>{{content}}</div>
+          <footer>
+            <span>Written By: {{author}}</span>
+            <p>Sources:</p>
+            <ul>
+              {{#each sources}}
+              <li>{{this}}</li>
+              {{/each}}
+
+            </ul>
+            <ul>
+                {{#each sources as |source|}}
+                <li>{{@index}}{{source}}</li>
+                {{/each}}
+            </ul>
+          </footer>
+        </article>
+        </script>
+
+
+        <script id="new-post-template" type="text/x-handlebars-template">
+        <article class="post-container">
+          <header>{{title}}</header>
+          <aside>
+            {{#unless image}}
+            <img src="./images/default.png" alt="{{author}}">
+            {{else}}
+              <img src="{{image}}" alt="{{author}}">
+            {{/unless}}
+          </aside>
+          <div>{{content}}</div>
+          <footer>
+            <span>Written By: {{author}}</span>
+            <p>Sources:</p>
+            <ul>
+              {{#each sources}}
+              <li><a href="{{this.url}}">{{this.title}}</a></li>
+              {{/each}}
+            </ul>
+          </footer>
+        </article>
+        </script>
+
+
+
+        <script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.6/handlebars.js"></script>
+        <script type="text/javascript" src="js/hb_second.js"></script>
+    </body>
+</html>
