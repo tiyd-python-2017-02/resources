@@ -23,6 +23,17 @@
 - [HackerRank](https://www.hackerrank.com/)
 
 
+### CSS:
+- [Flex-box Froggy](http://flexboxfroggy.com/)
+- [CSS grid garden](http://cssgridgarden.com/)
+
+
+### RegEx:
+- [regex one](https://regexone.com/)
+- [regex crossword](https://regexcrossword.com/)
+- [regex golf](https://alf.nu/RegexGolf)
+
+
 ### git cheatsheet
 - [git cheatsheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 - [github 1](https://education.github.com/git-cheat-sheet-education.pdf)
