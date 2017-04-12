@@ -1,0 +1,6 @@
+WARNING:tcpserver:Protocol problem: connection reset
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+WARNING:root:Danger Will Robinson
+INFO:root:FYI

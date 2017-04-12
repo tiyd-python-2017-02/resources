@@ -21,7 +21,7 @@
 - [CodeWars](https://www.codewars.com/)
 - [CodingGame](https://www.codingame.com/)
 - [HackerRank](https://www.hackerrank.com/)
-
+- [Exercism](http://exercism.io/)
 
 ### CSS:
 - [Flex-box Froggy](http://flexboxfroggy.com/)
@@ -39,6 +39,7 @@
 - [github 1](https://education.github.com/git-cheat-sheet-education.pdf)
 - [github 2](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - [ndp software cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) I have no idea if this is a good site, but it looks cool and like it might be useful
+- [branching and merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
 
 ### Unix/Linux/Mac terminal

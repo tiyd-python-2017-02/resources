@@ -17,7 +17,7 @@
               <img src="./images/default.png" alt="{{author}}">
             {{/if}}
           </aside>
-          <div>{{content}}</div>
+          <div>{{{prevent-orphan content}}}</div>
           <footer>
             <span>Written By: {{author}}</span>
             <p>Sources:</p>
@@ -47,7 +47,7 @@
               <img src="{{image}}" alt="{{author}}">
             {{/unless}}
           </aside>
-          <div>{{content}}</div>
+          <div>{{{prevent-orphan content}}}</div>
           <footer>
             <span>Written By: {{author}}</span>
             <p>Sources:</p>

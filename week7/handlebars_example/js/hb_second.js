@@ -1,3 +1,8 @@
+Handlebars.registerHelper('prevent-orphan', function(text) {
+    var lastSpace = text.lastIndexOf(" ");
+    return text.slice(0, lastSpace) + text.slice(lastSpace).replace(' ', "&nbsp;");
+});
+
 var context = {
   title: 'Block Helper Post',
   content: 'All the things and stuff!',
@@ -28,7 +33,7 @@ $('#content').html(htmlOutput);
 
 var newContext = {
   title: 'Our First Post',
-  content: 'This is some content for our post.',
+  content: 'This is some content for our post. here is some more text so that we can demonstrate the orphan word functionality',
   author: 'Daniel Yuschick',
   sources: [
     { title: 'CSS Weekly', url: 'http://css-weekly.com/' },
