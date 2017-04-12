@@ -89,4 +89,5 @@
 - [Python Requests documentation](http://docs.python-requests.org/en/master/)
 - [An interesting authentication discussion](http://stackoverflow.com/questions/34784644/what-is-the-difference-between-oauth-based-and-token-based-authentication)
 
-
+### Markdown
+- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
